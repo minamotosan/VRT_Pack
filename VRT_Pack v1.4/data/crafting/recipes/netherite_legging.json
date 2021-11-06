@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "ODO",
+        "NCN"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "W": {
+            "item": "minecraft:wither_rose"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "D": {
+            "item": "minecraft:diamond_leggings"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "C": {
+            "item": "minecraft:compass"
+        }
+    },
+    "result": {
+        "item": "minecraft:netherite_leggings",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "/DW",
+        "N/#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "W": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        },
+        "D": {
+            "item": "minecraft:diamond_axe"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:netherite_axe",
+        "count": 1
+    }
+}

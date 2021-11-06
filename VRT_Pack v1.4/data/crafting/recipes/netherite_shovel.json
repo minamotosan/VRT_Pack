@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#WO",
+        "/DW",
+        "N/#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wither_rose"
+        },
+        "W": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        },
+        "D": {
+            "item": "minecraft:diamond_shovel"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:netherite_shovel",
+        "count": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#ON",
+        "WDO",
+        "/W#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wither_rose"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "W": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "D": {
+            "item": "minecraft:diamond_sword"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        }
+    },
+    "result": {
+        "item": "minecraft:netherite_sword",
+        "count": 1
+    }
+}
