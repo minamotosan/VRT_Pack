@@ -1,2 +1,2 @@
 # VRT_Pack
-The datapack installed in VRT
+The datapack installed in VRT (Minecraft Server)
