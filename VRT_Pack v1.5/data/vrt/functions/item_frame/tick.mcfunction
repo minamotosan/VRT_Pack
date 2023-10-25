@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:item_frame",Count:1b}}] at @s if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:glass_pane",Count:1b}}] run function vrt:item_frame/invisible_frame

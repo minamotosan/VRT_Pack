@@ -1,0 +1,2 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:apple"}}] at @s if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:gold_block",Count:8b}}] run function vrt:crafting_enchanted_golden_apple/1xcrafting
+execute as @e[type=item,nbt={Item:{id:"minecraft:apple",Count:8b}}] at @s if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:gold_block",Count:64b}}] run function vrt:crafting_enchanted_golden_apple/8xcrafting

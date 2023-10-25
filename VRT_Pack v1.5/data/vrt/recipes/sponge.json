@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "PQP",
+        "#P#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sand"
+        },
+        "P": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "Q": {
+            "item": "minecraft:prismarine_crystals"
+        }
+    },
+    "result": {
+        "item": "minecraft:sponge",
+        "count": 4
+    }
+}

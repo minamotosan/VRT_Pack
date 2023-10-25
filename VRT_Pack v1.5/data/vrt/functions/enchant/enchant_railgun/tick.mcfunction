@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:bow"}}] at @s if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:enchanted_book"}}] run function vrt:enchant/enchant_railgun/enchant_check

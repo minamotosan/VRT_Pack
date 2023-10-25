@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "STS",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:blue_ice"
+        },
+        "S": {
+            "item": "minecraft:sea_lantern"
+        },
+        "T": {
+            "item": "minecraft:tube_coral"
+        }
+    },
+    "result": {
+        "item": "minecraft:heart_of_the_sea",
+        "count": 1
+    }
+}

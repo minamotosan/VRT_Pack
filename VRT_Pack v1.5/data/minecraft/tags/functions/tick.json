@@ -1,0 +1,9 @@
+{
+	"values": [ 
+		"vrt:colorful_name/tick",
+		"vrt:crafting_enchanted_golden_apple/tick",
+		"vrt:enchant/enchant_railgun/tick",
+		"vrt:enchant/effciency_x/tick",
+		"vrt:item_frame/tick"
+	]
+}
